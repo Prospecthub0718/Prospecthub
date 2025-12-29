@@ -1,7 +1,0 @@
-baseURL = "https://prospecthub.pages.dev/"
-title = "ProspectHub"
-[pagination]
-  pagerSize = 8
-
-
-

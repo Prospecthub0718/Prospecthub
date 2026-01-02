@@ -2,6 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "ProspectHub"
 
-theme = "github.com/theNewDynamic/gohugo-theme-ananke"
+theme = "ananke"
 
-paginate = 10
+[pagination]
+  pagerSize = 10

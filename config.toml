@@ -1,12 +1,7 @@
-baseURL = "https://prospecthub.pages.dev/"
+baseURL = "/"
+languageCode = "en-us"
 title = "ProspectHub"
-theme = "ananke"
-paginate = 5
 
-[params]
-  description = "Welcome to ProspectHub"
-  mainSections = ["posts"]
+theme = "github.com/theNewDynamic/gohugo-theme-ananke"
 
-[taxonomies]
-  tag = "tags"
-  category = "categories"
+paginate = 10

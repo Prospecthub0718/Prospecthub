@@ -5,6 +5,3 @@ title = "ProspectHub"
 [module]
   [[module.imports]]
     path = "github.com/theNewDynamic/gohugo-theme-ananke"
-
-[pagination]
-  pagerSize = 10

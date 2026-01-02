@@ -1,8 +1,5 @@
 ---
-title: "ProspectHub"
+title: "Home"
 ---
 
-Welcome to **ProspectHub** 🚀  
-
-This website is built using **Hugo** and the **m10c theme**.  
-Stay tuned for updates!
+Welcome to ProspectHub

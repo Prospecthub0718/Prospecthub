@@ -1,0 +1,6 @@
+baseURL = "https://prospecthub.pages.dev/"
+title = "ProspectHub"
+theme = "hugo-theme-m10c"
+
+[pagination]
+  pagerSize = 8

@@ -2,3 +2,11 @@ baseURL = "https://prospecthub.pages.dev/"
 title = "ProspectHub"
 theme = "ananke"
 paginate = 5
+
+[params]
+  description = "Welcome to ProspectHub"
+  mainSections = ["posts"]
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"

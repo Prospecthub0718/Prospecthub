@@ -2,5 +2,3 @@ baseURL = "https://prospecthub.pages.dev/"
 title = "ProspectHub"
 theme = "ananke"
 paginate = 5
-
-disableKinds = ["taxonomy", "taxonomyTerm", "404"]
